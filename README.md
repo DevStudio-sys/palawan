@@ -40,6 +40,8 @@
 2. Run `npm install` or `yarn install`
 3. Run `npm run build` or `yarn build`
 
+Note: create .env file in root level and set up APP_URL, INBOXSDK_APPID
+
 ##### Load the extension in Chrome & Opera
 
 1. Open Chrome/Opera browser and navigate to chrome://extensions
